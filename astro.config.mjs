@@ -19,6 +19,7 @@ export default defineConfig({
 					items: [
 						// Each item here is one entry in the navigation menu.
 						{ label: 'Desktop', slug: 'editions/desktop' },
+						{ label: 'Surface', slug: 'editions/snowfield' },
 						{ label: 'Server', slug: 'editions/server' },
 					],
 				},
